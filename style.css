@@ -1,0 +1,28 @@
+.container {
+  width: 100%;
+  height: 300px;
+}
+
+h1 {
+  text-align: center;
+  border-bottom: 1px solid #ff0505;
+}
+
+#display {
+  width: 100%;
+  font-size: 72px;
+  text-align: center;
+  margin: 0px auto;
+}
+
+.buttons {
+  text-align: center;
+}
+
+button {
+  color: #fff;
+  background: #000;
+  border: none;
+  width: 60px;
+  height: 30px;
+}
